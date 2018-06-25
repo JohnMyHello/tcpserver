@@ -1,6 +1,5 @@
 # tcpserver
 test
-<<<<<<< HEAD
 111
 222
 
